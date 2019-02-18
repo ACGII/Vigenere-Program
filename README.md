@@ -1,4 +1,8 @@
 # Vigenere-Program
+## Coursera Object Oriented Programming in Java
+### Java Programming Arrays, Lists, and Structured Data
+### Duke University
+
 Assignment: Multiple Languages
 Finally, it is time to expand your program so that it can crack messages in other languages.
 To accomplish this, you need to write two new methods and modify two methods you have
